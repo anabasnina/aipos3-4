@@ -1,5 +1,5 @@
 # aipos3-4
-2 сервера - backend (Flask + SQLAlchemy) и frontend (Vue.js)
+# 2 сервера - backend (Flask + SQLAlchemy) и frontend (Vue.js)
 	backend
 		здесь ничего не изменилось, кроме того, что представления из views возвращают НЕ HTML, а JSON (ЭТО НАЗЫВАЕТСЯ REST АРХИТЕКТУРА)
 	frontend
